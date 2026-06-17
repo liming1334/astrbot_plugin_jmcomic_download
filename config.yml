@@ -1,0 +1,11 @@
+client:
+  domain:
+    - https://www.cdnhjk.net
+    - https://www.cdngwc.cc
+    - https://www.cdngwc.net
+    - https://www.cdngwc.club
+    - https://www.cdnutc.me
+
+dir_rule:
+  base_dir: downloads
+  rule: Bd_Aid_Atitle_Ptitle
