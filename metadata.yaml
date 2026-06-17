@@ -1,4 +1,11 @@
 name: astrbot_plugin_jmcomic_download
+
+display_name: JMComic下载插件
+
+desc: 支持JMComic作品查询、下载并自动转换PDF的AstrBot插件
+
+version: v1.0.0
+
 author: Lealine
-version: 0.1.0
-description: JMComic下载插件
+
+repo: https://github.com/liming1334/astrbot_plugin_jmcomic_download/
