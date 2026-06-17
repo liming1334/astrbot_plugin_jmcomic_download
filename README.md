@@ -1,0 +1,2 @@
+# astrbot_plugin_jmcomic_download
+这是一个简易的JMComic下载插件
